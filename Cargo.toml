@@ -1,8 +1,7 @@
 [package]
-name = "edupt"
+name = "rust_edupt"
 version = "0.1.0"
-authors = ["aadebdeb"]
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 lazy_static = "*"
