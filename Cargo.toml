@@ -1,0 +1,9 @@
+[package]
+name = "edupt"
+version = "0.1.0"
+authors = ["aadebdeb"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "*"
+rayon = "*"
